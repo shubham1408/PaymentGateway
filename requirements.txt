@@ -3,7 +3,7 @@ backcall==0.2.0
 decorator==4.4.2
 Django==3.0.8
 django-restframework==0.0.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 ipdb==0.13.3
 ipython==7.16.1
 ipython-genutils==0.2.0
